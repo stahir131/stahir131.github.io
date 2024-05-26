@@ -9,6 +9,8 @@
 - <b>Microsoft Intune</b>
   - [Configuring Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
   - [Syncing SharePoint Sites to Windows Devices](https://stahir131.github.io/SharePoint-Sync-in-Intune/)
+  - [Dynamic Groups in Azure AD and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
+
 
 <h2>🤳Connect with me:</h2>
 
