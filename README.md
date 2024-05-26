@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Intune</b>
   - [Configuring Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Syncing SharePoint Sites to Windows Devices](https://stahir131.github.io/SharePoint-Sync-in-Intune/)
 
 <h2>🤳Connect with me:</h2>
 
