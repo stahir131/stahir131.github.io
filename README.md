@@ -2,14 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+- <b>Microsoft Azure</b>
+  - [Azure CLI Commands](https://stahir131.github.io/Azure-CLI-commands/)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Intune</b>
   - [Configuring Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
   - [Syncing SharePoint Sites to Windows Devices](https://stahir131.github.io/SharePoint-Sync-in-Intune/)
   - [Dynamic Groups in Azure AD and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
+  - 
 
 
 <h2>🤳Connect with me:</h2>
