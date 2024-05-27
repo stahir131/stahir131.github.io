@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Azure CLI Commands](https://stahir131.github.io/Azure-CLI-commands/)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [Azure Conditional Access](https://stahir131.github.io/Azure-Conditional-Access/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Intune</b>
   - [Microsoft Intune Homelab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
