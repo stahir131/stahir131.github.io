@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Azure CLI Commands](https://stahir131.github.io/Azure-CLI-commands/)
   - [Azure Conditional Access](https://stahir131.github.io/Azure-Conditional-Access/)
+  - [Backup on-Premises Windows Server to Azure](https://stahir131.github.io/Backup-on-Premises-Windows-Server-to-Azure/)
   
 - <b>Microsoft Intune</b>
   - [Microsoft Intune Homelab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
