@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Intune</b>
-  -[Microsoft Intune Homelab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
+  - [Microsoft Intune Homelab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
   - [Configuring Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
   - [Syncing SharePoint Sites to Windows Devices](https://stahir131.github.io/SharePoint-Sync-in-Intune/)
   - [Dynamic Groups in Azure AD and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
