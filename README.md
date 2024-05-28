@@ -8,10 +8,10 @@
   - [Backup on-Premises Windows Server to Azure](https://stahir131.github.io/Backup-on-Premises-Windows-Server-to-Azure/)
   
 - <b>Microsoft Intune</b>
-  - [Microsoft Intune Homelab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
-  - [Configuring Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
+  - [Microsoft Intune Home Lab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
+  - [Creating Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
   - [Syncing SharePoint Sites to Windows Devices](https://stahir131.github.io/SharePoint-Sync-in-Intune/)
-  - [Dynamic Groups in Azure AD and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
+  - [Creating Dynamic Groups in Azure and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
     
 
 
