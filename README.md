@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Azure CLI Commands](https://stahir131.github.io/Azure-CLI-commands/)
   - [Azure Conditional Access](https://stahir131.github.io/Azure-Conditional-Access/)
+  - [Create Site-to-Site VPN Connection from Azure to On-premises network](https://stahir131.github.io/Site-to-site-VPN-connection-in-the-Azure-portal/)
   - [Backup on-Premises Windows Server to Azure](https://stahir131.github.io/Backup-on-Premises-Windows-Server-to-Azure/)
   
 - <b>Microsoft Intune</b>
