@@ -7,6 +7,8 @@
   - [Azure Conditional Access](https://stahir131.github.io/Azure-Conditional-Access/)
   - [Create Site-to-Site VPN Connection from Azure to On-premises network](https://stahir131.github.io/Site-to-site-VPN-connection-in-the-Azure-portal/)
   - [Backup on-Premises Windows Server to Azure](https://stahir131.github.io/Backup-on-Premises-Windows-Server-to-Azure/)
+  - [Add RDP Users to AzureAD-Joined Devices ](https://stahir131.github.io/Intune-Add-RDP-users-to-Intune-devices/)
+
   
 - <b>Microsoft Intune</b>
   - [Microsoft Intune Home Lab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
