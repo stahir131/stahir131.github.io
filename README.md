@@ -14,6 +14,7 @@
   - [Microsoft Intune Home Lab](https://stahir131.github.io/Microsoft-Intune-Home-lab/)
   - [Creating Intune Configuration Profile](https://stahir131.github.io/Intune-Configuration-Profile/)
   - [Syncing SharePoint Sites to Windows Devices in Intune](https://stahir131.github.io/SharePoint-Sync-in-Intune/)
+  - [Windows Local Administrator Password Solutions(LAPS) With Intune](https://stahir131.github.io/LAPS-With-Intune/)
   - [Silently Enable and Configure Bitlocker for Windows Endpoints in Intune](https://stahir131.github.io/Confugure-Bitlocker-Encryption-on-Endpoints-With-Intune/)
   - [Creating Dynamic Groups in Azure and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
     
