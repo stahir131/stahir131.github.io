@@ -1,6 +1,6 @@
 <h1>Hi, I'm Surry, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Microsoft Azure & Intune Projects:</h2>
 
 - <b>Microsoft Azure</b>
   - [Azure CLI Commands](https://stahir131.github.io/Azure-CLI-commands/)
@@ -17,8 +17,8 @@
   - [Windows Local Administrator Password Solutions(LAPS) With Intune](https://stahir131.github.io/LAPS-With-Intune/)
   - [Silently Enable and Configure Bitlocker for Windows Endpoints in Intune](https://stahir131.github.io/Confugure-Bitlocker-Encryption-on-Endpoints-With-Intune/)
   - [Creating Dynamic Groups in Azure and Microsoft 365](https://stahir131.github.io/Dynamic-Groups-in-Azure-AD-and-Microsoft-365/)
-    
-
+  - [Configuring Local Administrator Password Solutions(LAPS) in Intune](https://stahir131.github.io/LAPS-With-Intune/)
+  
 
 <h2>🤳Connect with me:</h2>
 
