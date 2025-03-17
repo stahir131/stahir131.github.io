@@ -9,6 +9,7 @@
   - [Backup on-Premises Windows Server to Azure](https://stahir131.github.io/Backup-on-Premises-Windows-Server-to-Azure/)
   - [Add RDP Users to AzureAD-Joined Devices ](https://stahir131.github.io/Intune-Add-RDP-users-to-Intune-devices/)
   - [Configuring Microsoft Entra Cloud Sync](https://stahir131.github.io/Configuring-CloudSync/)
+  - [Enable Cloud Sync SSPR writeback to on-premises AD environment](https://stahir131.github.io/Enable-Cloud-Sync-SSPR-to-on-prem-AD/)
 
   
 - <b>Microsoft Intune</b>
