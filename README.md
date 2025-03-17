@@ -8,6 +8,7 @@
   - [Create Site-to-Site VPN Connection from Azure to On-premises network](https://stahir131.github.io/Site-to-site-VPN-connection-in-the-Azure-portal/)
   - [Backup on-Premises Windows Server to Azure](https://stahir131.github.io/Backup-on-Premises-Windows-Server-to-Azure/)
   - [Add RDP Users to AzureAD-Joined Devices ](https://stahir131.github.io/Intune-Add-RDP-users-to-Intune-devices/)
+  - [Configuring Microsoft Entra Cloud Sync](https://stahir131.github.io/Configuring-CloudSync/)
 
   
 - <b>Microsoft Intune</b>
