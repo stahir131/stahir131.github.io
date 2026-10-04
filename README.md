@@ -4,7 +4,7 @@
 
    - [Intune Migration Project](https://stahir131.github.io/Microsoft-Intune-Endpoint-Modernization-Architectural-Firm/)
    
-  - [Infrastructure Modernization & On-Premises Server Migration Project](https://github.com/stahir131/Infrastructure-Modernization-On-Premises-Server-Migration-Project/)
+  - [Infrastructure Modernization & On-Premises Server Migration Project](https://stahir131.github.io/Infrastructure-Modernization-On-Premises-Server-Migration-Project/)
 <h2>👨‍💻 Hands-on Lab: Microsoft Azure & Intune Labs:</h2>
 
 - <b>Microsoft Azure</b>
