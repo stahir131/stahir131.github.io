@@ -2,6 +2,8 @@
 
 <h2>🚀 Recently Completed Projects:</h2>
 
+   - [Ongoing Intune Migration Project](coming soon.....)
+   
   - [Infrastructure Modernization & On-Premises Server Migration Project](https://github.com/stahir131/Infrastructure-Modernization-On-Premises-Server-Migration-Project/)
 <h2>👨‍💻 Hands-on Lab: Microsoft Azure & Intune Labs:</h2>
 
