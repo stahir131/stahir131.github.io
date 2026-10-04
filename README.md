@@ -1,4 +1,5 @@
-<h1>Hi, I'm Surry, an <a href="https://linkedin.com/in/stahir131">IT Professional</a>☺</h1>
+<h4>Hi, I'm Surry, an <a href="https://linkedin.com/in/stahir131">IT Professional</a>☺</h4>
+Cloud and endpoint-focused IT professional with hands-on experience in Microsoft Intune, Azure, Microsoft 365, Active Directory, endpoint security, and infrastructure modernization. Experienced in deploying secure, scalable solutions and automating IT operations across Windows and cloud environments.
 
 <h2>🚀 Recently Completed Projects:</h2>
 
