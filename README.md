@@ -1,8 +1,9 @@
 <h1>Hi, I'm Surry, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
-<h2>🚀 Infrastructure Modernization & On-Premises Server Migration Projects:</h2>
+<h2>🚀 Recently Completed Projects:</h2>
 
-<h2>👨‍💻 Hands-on Lab: Microsoft Azure & Intune Projects:</h2>
+  - [Infrastructure Modernization & On-Premises Server Migration Project](https://github.com/stahir131/Infrastructure-Modernization-On-Premises-Server-Migration-Project/)
+<h2>👨‍💻 Hands-on Lab: Microsoft Azure & Intune Labs:</h2>
 
 - <b>Microsoft Azure</b>
   - [Azure CLI Commands](https://stahir131.github.io/Azure-CLI-commands/)
